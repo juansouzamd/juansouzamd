@@ -3,7 +3,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/juansouzamd/)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juansouzamd/?original_referer=)[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/skyl4z)
 
-- 🔭 Desenvolvedor Front-end júnior.
 - 🌱 Estudante de análise e desenvolvimento de sistemas no Senac.
 - 📫 Email de contato: juansouzamd@gmail.com
 
