@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">- My name is Juan Souza and i'm a Software Developer Full Stack, from SP, Brazil 🇧🇷</h4>
+<h4 align="left">- My name is Juan Souza and I’m an E-commerce Manager from SP, Brazil 🇧🇷</h4>
 
 ###
 
@@ -10,7 +10,12 @@
 
 ###
 
-<h4 align="left">- Systems analysis and development student<br>- E-commerce project manager</h4>
+<h4 align="left">
+- 8+ years of experience in e-commerce and marketplaces<br>
+- Focused on revenue growth, conversion optimization and data-driven decisions<br>
+- Background in systems analysis and development<br>
+- Experience with SQL, Power BI, Google Analytics and performance analysis
+</h4>
 
 ###
 
